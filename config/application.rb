@@ -12,5 +12,6 @@ module AssociationTutorial
     config.load_defaults 6.0
 
     config.i18n.default_locale = :ja
+
   end
 end
